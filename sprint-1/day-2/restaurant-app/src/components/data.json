@@ -1,0 +1,51 @@
+{
+    "restaurants":[{
+        "id":1,
+        "restaurant_name":"URU-Brewpark",
+        "card_image":"https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/10/17/pizza.jpg",
+        "dish_name":"Pizza",
+        "cost_for_one":200,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "catagories":["Pizza","Dessert","Burger","Chole-Bhaturae"],
+        "total_votes":766,
+        "rating":4.3,
+        "reviews":512
+
+    },{
+        "id":2,
+        "restaurant_name":"Palm-garden",
+        "card_image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYHtJj2E6sI-BKbvoFV1T7WBwD0gDVMkd8r1F4xuyHJA7xTrVYNBhU2-G7LH9m8rRetkg&usqp=CAU",
+        "dish_name":"french fries",
+        "cost_for_one":300,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "catagories":["Pizza","Dessert","Burger","Chole-Bhaturae"],
+        "total_votes":766,
+        "rating":3.4,
+        "reviews":512
+    },{
+        "id":3,
+        "restaurant_name":"HeartBeat",
+        "card_image":"https://www.asaucykitchen.com/wp-content/uploads/2019/01/Thai-Red-Coconut-Chicken-4.jpg",
+        "dish_name":"chicken-curry",
+        "cost_for_one":200,
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": true
+        },
+        "catagories":["Pizza","Dessert","Burger","Chole-Bhaturae"],
+        "total_votes":766,
+        "rating":2.5,
+        "reviews":512
+    }]
+}
+
+
