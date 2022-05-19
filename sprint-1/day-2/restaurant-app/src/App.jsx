@@ -1,10 +1,11 @@
-import { useState } from 'react'
+
 import logo from './logo.svg'
 import './App.css'
 import { RestaurantDetails } from './components/RestaurantDetails'
+import { RestaurantCard } from './components/RestaurantCard'
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <div className="App">

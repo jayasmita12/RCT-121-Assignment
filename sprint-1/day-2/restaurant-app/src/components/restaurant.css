@@ -1,0 +1,10 @@
+.Container{
+    display:flex;
+    border: 1px solid red;
+    width:500px;
+
+}
+.image-name img{
+    width:100px;
+    height:100px
+}
